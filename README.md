@@ -47,7 +47,7 @@ The dataset is intentionally small so that the Bag of Words transformation can b
 
 ---
 
-## What is Bag of Words?
+## What is Bag of Words (BoW)?
 
 **Bag of Words (BoW)** is a text representation technique that converts text into numerical vectors based on the occurrence or frequency of words.
 
